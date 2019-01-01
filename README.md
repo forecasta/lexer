@@ -1,2 +1,2 @@
 # lexer
-PHP Rexer Utility
+PHP Lexer Utility
